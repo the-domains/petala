@@ -1,0 +1,28 @@
+name: PETALA
+favicon: null
+layout_spectrum: 0.46945524541661143
+typography_spectrum: 0.37753392569720745
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.04840508638881147
+  lightness: 0.7717273880261928
+  saturation: 0.0033296006731688976
+  rhythmicContrast: 0.18759631249122322
+purpose: []
